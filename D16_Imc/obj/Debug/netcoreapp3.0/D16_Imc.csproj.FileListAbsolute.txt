@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d16_imc\bin\Debug\netcoreapp3.0\D16_Imc.exe
+C:\Users\thais froes\Desktop\Desafio\d16_imc\bin\Debug\netcoreapp3.0\D16_Imc.deps.json
+C:\Users\thais froes\Desktop\Desafio\d16_imc\bin\Debug\netcoreapp3.0\D16_Imc.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d16_imc\bin\Debug\netcoreapp3.0\D16_Imc.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d16_imc\bin\Debug\netcoreapp3.0\D16_Imc.dll
+C:\Users\thais froes\Desktop\Desafio\d16_imc\bin\Debug\netcoreapp3.0\D16_Imc.pdb
+C:\Users\thais froes\Desktop\Desafio\d16_imc\obj\Debug\netcoreapp3.0\D16_Imc.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d16_imc\obj\Debug\netcoreapp3.0\D16_Imc.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d16_imc\obj\Debug\netcoreapp3.0\D16_Imc.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d16_imc\obj\Debug\netcoreapp3.0\D16_Imc.dll
+C:\Users\thais froes\Desktop\Desafio\d16_imc\obj\Debug\netcoreapp3.0\D16_Imc.pdb

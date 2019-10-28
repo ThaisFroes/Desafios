@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\obj\Debug\netcoreapp3.0\D3_Viagem.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\obj\Debug\netcoreapp3.0\D3_Viagem.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\obj\Debug\netcoreapp3.0\D3_Viagem.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\bin\Debug\netcoreapp3.0\D3_Viagem.exe
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\bin\Debug\netcoreapp3.0\D3_Viagem.deps.json
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\bin\Debug\netcoreapp3.0\D3_Viagem.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\bin\Debug\netcoreapp3.0\D3_Viagem.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\bin\Debug\netcoreapp3.0\D3_Viagem.dll
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\bin\Debug\netcoreapp3.0\D3_Viagem.pdb
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\obj\Debug\netcoreapp3.0\D3_Viagem.dll
+C:\Users\thais froes\Desktop\Desafio\d3_viagem\obj\Debug\netcoreapp3.0\D3_Viagem.pdb

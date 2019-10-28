@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\bin\Debug\netcoreapp3.0\D4_ImparPar.exe
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\bin\Debug\netcoreapp3.0\D4_ImparPar.deps.json
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\bin\Debug\netcoreapp3.0\D4_ImparPar.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\bin\Debug\netcoreapp3.0\D4_ImparPar.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\bin\Debug\netcoreapp3.0\D4_ImparPar.dll
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\bin\Debug\netcoreapp3.0\D4_ImparPar.pdb
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\obj\Debug\netcoreapp3.0\D4_ImparPar.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\obj\Debug\netcoreapp3.0\D4_ImparPar.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\obj\Debug\netcoreapp3.0\D4_ImparPar.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\obj\Debug\netcoreapp3.0\D4_ImparPar.dll
+C:\Users\thais froes\Desktop\Desafio\d4_imparpar\obj\Debug\netcoreapp3.0\D4_ImparPar.pdb

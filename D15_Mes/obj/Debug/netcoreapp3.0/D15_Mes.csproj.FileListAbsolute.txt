@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d15_mes\obj\Debug\netcoreapp3.0\D15_Mes.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d15_mes\obj\Debug\netcoreapp3.0\D15_Mes.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d15_mes\obj\Debug\netcoreapp3.0\D15_Mes.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d15_mes\bin\Debug\netcoreapp3.0\D15_Mes.exe
+C:\Users\thais froes\Desktop\Desafio\d15_mes\bin\Debug\netcoreapp3.0\D15_Mes.deps.json
+C:\Users\thais froes\Desktop\Desafio\d15_mes\bin\Debug\netcoreapp3.0\D15_Mes.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d15_mes\bin\Debug\netcoreapp3.0\D15_Mes.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d15_mes\bin\Debug\netcoreapp3.0\D15_Mes.dll
+C:\Users\thais froes\Desktop\Desafio\d15_mes\bin\Debug\netcoreapp3.0\D15_Mes.pdb
+C:\Users\thais froes\Desktop\Desafio\d15_mes\obj\Debug\netcoreapp3.0\D15_Mes.dll
+C:\Users\thais froes\Desktop\Desafio\d15_mes\obj\Debug\netcoreapp3.0\D15_Mes.pdb

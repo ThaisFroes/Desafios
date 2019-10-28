@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d13_lados\obj\Debug\netcoreapp3.0\D13_Lados.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d13_lados\obj\Debug\netcoreapp3.0\D13_Lados.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d13_lados\obj\Debug\netcoreapp3.0\D13_Lados.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d13_lados\bin\Debug\netcoreapp3.0\D13_Lados.exe
+C:\Users\thais froes\Desktop\Desafio\d13_lados\bin\Debug\netcoreapp3.0\D13_Lados.deps.json
+C:\Users\thais froes\Desktop\Desafio\d13_lados\bin\Debug\netcoreapp3.0\D13_Lados.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d13_lados\bin\Debug\netcoreapp3.0\D13_Lados.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d13_lados\bin\Debug\netcoreapp3.0\D13_Lados.dll
+C:\Users\thais froes\Desktop\Desafio\d13_lados\bin\Debug\netcoreapp3.0\D13_Lados.pdb
+C:\Users\thais froes\Desktop\Desafio\d13_lados\obj\Debug\netcoreapp3.0\D13_Lados.dll
+C:\Users\thais froes\Desktop\Desafio\d13_lados\obj\Debug\netcoreapp3.0\D13_Lados.pdb

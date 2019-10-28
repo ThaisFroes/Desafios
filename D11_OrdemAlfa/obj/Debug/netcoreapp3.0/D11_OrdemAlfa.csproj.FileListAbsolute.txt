@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\bin\Debug\netcoreapp3.0\D11_OrdemAlfa.exe
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\bin\Debug\netcoreapp3.0\D11_OrdemAlfa.deps.json
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\bin\Debug\netcoreapp3.0\D11_OrdemAlfa.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\bin\Debug\netcoreapp3.0\D11_OrdemAlfa.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\bin\Debug\netcoreapp3.0\D11_OrdemAlfa.dll
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\bin\Debug\netcoreapp3.0\D11_OrdemAlfa.pdb
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\obj\Debug\netcoreapp3.0\D11_OrdemAlfa.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\obj\Debug\netcoreapp3.0\D11_OrdemAlfa.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\obj\Debug\netcoreapp3.0\D11_OrdemAlfa.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\obj\Debug\netcoreapp3.0\D11_OrdemAlfa.dll
+C:\Users\thais froes\Desktop\Desafio\d11_OrdemAlfa\obj\Debug\netcoreapp3.0\D11_OrdemAlfa.pdb

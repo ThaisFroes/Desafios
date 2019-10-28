@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d5_ab\obj\Debug\netcoreapp3.0\D5_Ab.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d5_ab\obj\Debug\netcoreapp3.0\D5_Ab.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d5_ab\obj\Debug\netcoreapp3.0\D5_Ab.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d5_ab\bin\Debug\netcoreapp3.0\D5_Ab.exe
+C:\Users\thais froes\Desktop\Desafio\d5_ab\bin\Debug\netcoreapp3.0\D5_Ab.deps.json
+C:\Users\thais froes\Desktop\Desafio\d5_ab\bin\Debug\netcoreapp3.0\D5_Ab.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d5_ab\bin\Debug\netcoreapp3.0\D5_Ab.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d5_ab\bin\Debug\netcoreapp3.0\D5_Ab.dll
+C:\Users\thais froes\Desktop\Desafio\d5_ab\bin\Debug\netcoreapp3.0\D5_Ab.pdb
+C:\Users\thais froes\Desktop\Desafio\d5_ab\obj\Debug\netcoreapp3.0\D5_Ab.dll
+C:\Users\thais froes\Desktop\Desafio\d5_ab\obj\Debug\netcoreapp3.0\D5_Ab.pdb

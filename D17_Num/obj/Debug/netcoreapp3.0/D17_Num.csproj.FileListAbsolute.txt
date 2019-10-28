@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d17_num\bin\Debug\netcoreapp3.0\D17_Num.exe
+C:\Users\thais froes\Desktop\Desafio\d17_num\bin\Debug\netcoreapp3.0\D17_Num.deps.json
+C:\Users\thais froes\Desktop\Desafio\d17_num\bin\Debug\netcoreapp3.0\D17_Num.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d17_num\bin\Debug\netcoreapp3.0\D17_Num.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d17_num\bin\Debug\netcoreapp3.0\D17_Num.dll
+C:\Users\thais froes\Desktop\Desafio\d17_num\bin\Debug\netcoreapp3.0\D17_Num.pdb
+C:\Users\thais froes\Desktop\Desafio\d17_num\obj\Debug\netcoreapp3.0\D17_Num.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d17_num\obj\Debug\netcoreapp3.0\D17_Num.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d17_num\obj\Debug\netcoreapp3.0\D17_Num.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d17_num\obj\Debug\netcoreapp3.0\D17_Num.dll
+C:\Users\thais froes\Desktop\Desafio\d17_num\obj\Debug\netcoreapp3.0\D17_Num.pdb

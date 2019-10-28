@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\bin\Debug\netcoreapp3.0\D9_Planeta.exe
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\bin\Debug\netcoreapp3.0\D9_Planeta.deps.json
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\bin\Debug\netcoreapp3.0\D9_Planeta.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\bin\Debug\netcoreapp3.0\D9_Planeta.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\bin\Debug\netcoreapp3.0\D9_Planeta.dll
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\bin\Debug\netcoreapp3.0\D9_Planeta.pdb
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\obj\Debug\netcoreapp3.0\D9_Planeta.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\obj\Debug\netcoreapp3.0\D9_Planeta.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\obj\Debug\netcoreapp3.0\D9_Planeta.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\obj\Debug\netcoreapp3.0\D9_Planeta.dll
+C:\Users\thais froes\Desktop\Desafio\d9_planeta\obj\Debug\netcoreapp3.0\D9_Planeta.pdb

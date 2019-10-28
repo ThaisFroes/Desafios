@@ -1,0 +1,3 @@
+C:\Users\thais froes\Desktop\Desafio\d10_multiplo\obj\Debug\netcoreapp3.0\D10_Multiplo.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d10_multiplo\obj\Debug\netcoreapp3.0\D10_Multiplo.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d10_multiplo\obj\Debug\netcoreapp3.0\D10_Multiplo.AssemblyInfo.cs

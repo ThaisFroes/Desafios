@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\obj\Debug\netcoreapp3.0\D7_ForImpar.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\obj\Debug\netcoreapp3.0\D7_ForImpar.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\obj\Debug\netcoreapp3.0\D7_ForImpar.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\bin\Debug\netcoreapp3.0\D7_ForImpar.exe
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\bin\Debug\netcoreapp3.0\D7_ForImpar.deps.json
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\bin\Debug\netcoreapp3.0\D7_ForImpar.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\bin\Debug\netcoreapp3.0\D7_ForImpar.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\bin\Debug\netcoreapp3.0\D7_ForImpar.dll
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\bin\Debug\netcoreapp3.0\D7_ForImpar.pdb
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\obj\Debug\netcoreapp3.0\D7_ForImpar.dll
+C:\Users\thais froes\Desktop\Desafio\d7_forimpar\obj\Debug\netcoreapp3.0\D7_ForImpar.pdb

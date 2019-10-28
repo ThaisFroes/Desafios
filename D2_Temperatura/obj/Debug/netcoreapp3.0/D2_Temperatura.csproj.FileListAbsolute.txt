@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\bin\Debug\netcoreapp3.0\D2_Temperatura.exe
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\bin\Debug\netcoreapp3.0\D2_Temperatura.deps.json
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\bin\Debug\netcoreapp3.0\D2_Temperatura.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\bin\Debug\netcoreapp3.0\D2_Temperatura.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\bin\Debug\netcoreapp3.0\D2_Temperatura.dll
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\bin\Debug\netcoreapp3.0\D2_Temperatura.pdb
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\obj\Debug\netcoreapp3.0\D2_Temperatura.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\obj\Debug\netcoreapp3.0\D2_Temperatura.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\obj\Debug\netcoreapp3.0\D2_Temperatura.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\obj\Debug\netcoreapp3.0\D2_Temperatura.dll
+C:\Users\thais froes\Desktop\Desafio\d2_temperatura\obj\Debug\netcoreapp3.0\D2_Temperatura.pdb

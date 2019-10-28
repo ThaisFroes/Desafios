@@ -1,0 +1,11 @@
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\obj\Debug\netcoreapp3.0\D11_Ordem.csprojAssemblyReference.cache
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\obj\Debug\netcoreapp3.0\D11_Ordem.AssemblyInfoInputs.cache
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\obj\Debug\netcoreapp3.0\D11_Ordem.AssemblyInfo.cs
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\bin\Debug\netcoreapp3.0\D11_Ordem.exe
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\bin\Debug\netcoreapp3.0\D11_Ordem.deps.json
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\bin\Debug\netcoreapp3.0\D11_Ordem.runtimeconfig.json
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\bin\Debug\netcoreapp3.0\D11_Ordem.runtimeconfig.dev.json
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\bin\Debug\netcoreapp3.0\D11_Ordem.dll
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\bin\Debug\netcoreapp3.0\D11_Ordem.pdb
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\obj\Debug\netcoreapp3.0\D11_Ordem.dll
+C:\Users\thais froes\Desktop\Desafio\D11_ordem\obj\Debug\netcoreapp3.0\D11_Ordem.pdb
